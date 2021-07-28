@@ -4,7 +4,18 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
-    background-color: #F3F1FF;
+    background-color: #FFFFFF;
 }
 
 
+.price-h1{
+    color: #FF136F;
+}
+
+.bg-custom{
+    background-color: #FCEAE8;
+}
+
+.bg-watch{ background-color: #FFA500;}
+.bg-bag{ background-color: #DA70D6;}
+.bg-shoes{background-color: #0000FF;}
